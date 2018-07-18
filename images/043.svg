@@ -2,7 +2,7 @@
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1043/02/22-rdf-syntax-ns#"
+   xmlns:rdf="http://www.w3.org/1 43/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -61,6 +61,6 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle"
          y="983.23468"
          x="100.05465"
-         id="tspan3338">043</tspan></text>
+         id="tspan3338"> 43</tspan></text>
   </g>
 </svg>
