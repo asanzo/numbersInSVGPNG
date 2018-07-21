@@ -28,4 +28,4 @@ import subprocess
 
 for number in range(0,1000):	
 	makeNumberSVG(threeDigits(number,' '))
-	subprocess.call(['/usr/bin/inkscape','-z','-f',outputPath('svg'),'-w','200','-h','200','-e',outputPath('png')])
+	subprocess.call(['/usr/bin/inkscape','-z','-f',outputPath('svg'),'-w','40','-h','40','-e',outputPath('png')])
